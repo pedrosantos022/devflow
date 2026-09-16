@@ -4,4 +4,4 @@ Como responsável pela arquitetura e modelagem do Banco de Dados, minha missão 
 
 Um banco de dados bem estruturado não serve apenas para guardar informações; ele é quem garante que a operação na ponta funcione sem falhas. Quando os dados estão organizados, o atendimento flui melhor, a equipe ganha tempo e o paciente recebe o cuidado que precisa com eficiência.
 
-#BancoDeDados #EngenhariaDeDados #SQL #HealthTech #LGPD #DesenvolvimentoDeSoftware #GestãoEmSaúde
+#BancoDeDados #EngenhariaDeDados #SQL #LGPD #DesenvolvimentoDeSoftware #GestãoEmSaúde
