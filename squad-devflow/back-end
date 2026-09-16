@@ -1,0 +1,28 @@
+Papel: Desenvolvedor Back-end
+O que o desenvolvedor back-end faz
+
+O desenvolvedor back-end é o profissional responsável por toda a lógica que funciona "por trás" do sistema, ou seja, a parte que o usuário não vê diretamente. Ele constrói as regras de negócio, processa as informações enviadas pelas telas (front-end), se comunica com o banco de dados e garante que as ações do sistema — como marcar um agendamento — aconteçam de forma correta e segura. No projeto da rede de clínicas populares, é esse profissional que faz o sistema realmente "funcionar", validando dados e armazenando tudo de maneira confiável.
+
+Principais responsabilidades no contexto das clínicas
+Criar a lógica que impede conflitos de horário, garantindo que dois pacientes não sejam agendados no mesmo horário com o mesmo profissional.
+Implementar o envio automático de lembretes aos pacientes, integrando o sistema a serviços de e-mail, SMS ou notificação.
+Registrar e atualizar o status de cada atendimento (agendado, realizado, cancelado, remarcado).
+Controlar login e permissões de acesso, diferenciando o que recepcionistas, médicos e administradores podem ver ou alterar.
+Garantir a segurança dos dados dos pacientes na camada do servidor, já que envolvem informações sensíveis de saúde.
+Conhecimentos e competências importantes
+
+Para atuar nessa área, é necessário domínio de uma linguagem de back-end (como Node.js, Python, Java ou PHP), conhecimento de construção de APIs REST, lógica de programação bem estruturada, entendimento de banco de dados (relacionamento entre tabelas, consultas) e noções de segurança da informação, incluindo boas práticas de criptografia e cuidados exigidos pela LGPD, já que o sistema lida com dados de saúde.
+
+Entregas que esse profissional produziria
+Um documento com as regras de negócio do sistema, como "não permitir agendamento duplicado" ou "cancelar automaticamente após X faltas".
+A especificação das rotas (endpoints) da API, por exemplo: POST /agendamentos, GET /pacientes/:id, PUT /agendamentos/:id/status.
+Um modelo explicando como o back-end se conecta ao banco de dados e processa as requisições vindas do front-end.
+Com quem o back-end precisa trabalhar
+Banco de dados: para definir juntos a estrutura das tabelas de pacientes, profissionais e agendamentos.
+Front-end: para alinhar quais dados a API vai entregar e receber, garantindo que as telas mostrem as informações corretas.
+UX/UI: para entender o fluxo que o paciente e o atendente vão seguir, adaptando a lógica do sistema a essa experiência.
+Segurança da informação: para proteger os dados sensíveis de saúde armazenados no sistema.
+Testes e qualidade: para validar se as regras de negócio (como evitar conflitos de horário) realmente funcionam.
+O que aconteceria se essa função não existisse
+
+Sem o back-end, o sistema seria apenas uma interface visual sem funcionamento real. Não haveria como salvar, validar ou consultar agendamentos de verdade. Conflitos de horário não seriam evitados, lembretes não seriam enviados automaticamente e não existiria controle de quem pode acessar quais informações — comprometendo tanto a organização das clínicas quanto a segurança dos dados dos pacientes
