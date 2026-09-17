@@ -7,7 +7,7 @@ garantindo agilidade, eficácia e segurança nas informações.
 
 ### Nosso Squad
 Vanessa Ventura
-Dawã Santos
+Dawã Marques
 Pedro Santos
 Liedson Nascimento
 Agnus Lucas
