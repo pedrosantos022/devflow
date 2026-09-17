@@ -1,0 +1,5 @@
+Trabalhei pela parte de Infraestrutura do projeto. Trabalhei na organização
+e preparação do ambiente, deixando as configurações prontas e tudo documentado
+para facilitar o trabalho da equipe. Foi uma experiência bem interessante, porque
+consegui colocar em prática alguns conhecimentos e entender melhor como a infraestrutura
+ajuda o projeto a funcionar de forma mais organizada.
