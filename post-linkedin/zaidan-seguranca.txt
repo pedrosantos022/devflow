@@ -1,0 +1,10 @@
+Em meu desenvolvimento da segurança da informação do projeto desenvolvido, o problema
+ principal da clínica é a extrema vulnerabilidade e a falta de controle sobre dados 
+ extremamente sensíveis (dados de saúde) causadas pelo modelo atual.
+
+ Como responsável pela Segurança da Informação (SI) no desenvolvimento do novo sistema
+integrado, a minha função é atuar como uma camada transversal, garantindo que o software 
+seja construído com o conceito de Security by Design (Segurança desde a Concepção).
+
+Um bom profissional de SI não é aquele que apenas "bloqueia tudo" ou dificulta o uso do sistema, 
+mas sim aquele que viabiliza o negócio de forma segura e fluida.
