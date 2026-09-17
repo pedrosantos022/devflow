@@ -1,8 +1,12 @@
-Durante o desenvolvimento da nossa plataforma, identifiquei um desafio crítico que muitas redes de saúde enfrentam: a desorganização e a fragmentação das informações de agendamentos e históricos de atendimento.
-Quando dados de consultas ficam dispersos em planilhas soltas, blocos de papel e mensagens de aplicativo, os riscos vão além da perda de arquivos — geram conflitos diretos de horários, atrasos na recepção e lacunas perigosas no histórico do paciente.
+Durante o desenvolvimento da nossa plataforma, identifiquei um desafio crítico que muitas redes de saúde 
+enfrentam: a desorganização e a fragmentação das informações de agendamentos e históricos de atendimento.
+Quando dados de consultas ficam dispersos em planilhas soltas, blocos de papel e mensagens de aplicativo, os riscos vão além da
+perda de arquivos que geram conflitos diretos de horários, atrasos na recepção e lacunas perigosas no histórico do paciente.
 
-Como responsável pela arquitetura e modelagem do Banco de Dados, minha missão no projeto foi transformar esse cenário caótico em uma estrutura relacional sólida, consistente e segura.
+Como responsável pela arquitetura e modelagem do Banco de Dados, minha missão no projeto foi transformar esse 
+cenário caótico em uma estrutura relacional sólida, consistente e segura.
 
-Um banco de dados bem estruturado não serve apenas para guardar informações; ele é quem garante que a operação na ponta funcione sem falhas. Quando os dados estão organizados, o atendimento flui melhor, a equipe ganha tempo e o paciente recebe o cuidado que precisa com eficiência.
+Um banco de dados bem estruturado não serve apenas para guardar informações; ele é quem garante que a operação na ponta funcione sem falhas.
+Quando os dados estão organizados, o atendimento flui melhor, a equipe ganha tempo e o paciente recebe o cuidado que precisa com eficiência.
 
 #BancoDeDados #EngenhariaDeDados #SQL #LGPD #DesenvolvimentoDeSoftware #GestãoEmSaúde
