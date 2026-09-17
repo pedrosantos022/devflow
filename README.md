@@ -5,13 +5,13 @@ desenvolvendo sistemas que integram processos em uma única plataforma.
 Nossas soluções organizam os dados de forma inteligente,
 garantindo agilidade, eficácia e segurança nas informações.
 
-### Nosso Squad | Papeis profissionais
+### Nosso Squad
 Vanessa Ventura
-Dawã
+Dawã Santos
 Pedro Santos
-Liedson
+Liedson Nascimento
 Agnus Lucas
-Zaidan
+Zaidan Cabral
 
 ### Descrição do problema
 Falta de integração e organização nos agendamentos, conflitos de horários, acompanhamento dos atendimentos realizados, atrasos, perda de dados e enviar lembretes aos pacientes.
