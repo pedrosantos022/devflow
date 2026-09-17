@@ -1,0 +1,10 @@
+Nos últimos meses venho atuando como Product Owner em um projeto para resolver um problema de uma rede de clínicas que enfrentava conflitos de agendamento, falhas de comunicação com paciente e falta de lembretes antes das consultas, gerando choques de horários, faltas e perda de registros.
+
+A solução em desenvolvimento se trata de um sistema web com dois perfis de acesso(clínica e paciente), agenda integrada com verificação automática de conflitos de horário e envio de lembretes automáticos antes de cada atendimento.
+Como PO, meu maior desafio não foi entender o problema da clínica, mas sim traduzir os requisitos claros suficientes para que minha equipe técnica pudessem trabalhar de forma alinhada, sem gerar mais trabalhos e sem perder de vista o usuário final.
+
+
+Escrever as primeiras User Stories, priorizar e manter uma comunicação constante com o time técnico me exigiu sair da zona de conforto. Ver as User Stories saindo do papel e se transformando em uma ferramenta que vai poupar horas de trabalho da equipe da clínica e devolver previsibilidade à gestão é o que faz a gestão de produtos valer a pena.
+Um agradecimento especial a todo o time da #DevFlow que transforma cada critério de aceite em código seguro e funcional. Seguimos construindo!
+
+#ProductOwner #GestãoDeProdutos #Tecnologia #Saude
