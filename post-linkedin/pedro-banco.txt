@@ -1,4 +1,5 @@
-Durante o desenvolvimento da nossa plataforma, identifiquei um desafio crítico que muitas redes de saúde enfrentam: a desorganização e a fragmentação das informações de agendamentos e históricos de atendimento. Quando dados de consultas ficam dispersos em planilhas soltas, blocos de papel e mensagens de aplicativo, os riscos vão além da perda de arquivos — geram conflitos diretos de horários, atrasos na recepção e lacunas perigosas no histórico do paciente.
+Durante o desenvolvimento da nossa plataforma, identifiquei um desafio crítico que muitas redes de saúde enfrentam: a desorganização e a fragmentação das informações de agendamentos e históricos de atendimento.
+Quando dados de consultas ficam dispersos em planilhas soltas, blocos de papel e mensagens de aplicativo, os riscos vão além da perda de arquivos — geram conflitos diretos de horários, atrasos na recepção e lacunas perigosas no histórico do paciente.
 
 Como responsável pela arquitetura e modelagem do Banco de Dados, minha missão no projeto foi transformar esse cenário caótico em uma estrutura relacional sólida, consistente e segura.
 

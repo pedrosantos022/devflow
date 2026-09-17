@@ -1,6 +1,5 @@
 # Papel: Engenheiro de dados (Banco de dados)
 
- 
 O Engenheiro de Dados é o arquiteto responsável que organizar, armazenar, recuperar e proteger todas as informações do sistema. Esse papel projeta as estruturas invisíveis (tabelas e relacionamentos) que garantem que os dados fluam de maneira correta e segura, transformando requisitos complexos em um repositório lógico e eficiente.
 
 # Principais Responsabilidades
