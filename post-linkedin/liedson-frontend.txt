@@ -1,0 +1,10 @@
+O problema é que a clínica não tem uma interface centralizada para gerenciar sua rotina. 
+Como as informações ficam divididas entre telas de planilhas, abas de mensagens e anotações, a recepção perde tempo trocando de janela, o que gera erros visuais ao marcar horários, atrasos e perda de dados.
+O projeto precisa de uma aplicação web que junte esses fluxos em telas simples e intuitivas.
+
+Como desenvolvedor Front-end, minha responsabilidade é criar a interface web que resolve a fragmentação das rotinas da clínica. 
+Sou responsável por projetar e desenvolver um painel de agendamentos intuitivo, responsivo e funcional. 
+Isso inclui criar formulários amigáveis com validações de horário em tempo real, organizar telas visuais para controle de atendimentos e lembretes, e consumir as APIs do sistema para garantir uma navegação ágil e sem erros para os usuários da clínica.
+
+Um bom Front-end neste projeto é o que transforma processos confusos em um fluxo simples e visual. 
+Mais do que telas bonitas, ele entrega uma interface rápida, intuitiva e sem distrações, que impede erros de agendamento em tempo real, reduz a carga de trabalho da recepção e garante que qualquer pessoa da equipe consiga operar o sistema sem precisar de treinamento complexo.
